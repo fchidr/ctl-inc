@@ -1,0 +1,22 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Ejecutar Python",
+      "type": "shell",
+      "command": "python.exe",
+      "args": [
+        "${workspaceFolder}/main.py",
+        "--input",
+        "datos.csv",
+        "--modo",
+        "test"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    }
+  ]
+}

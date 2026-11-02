@@ -1,0 +1,27 @@
+# top-most EditorConfig file
+root = true
+
+# Windows-style newlines with a newline ending every file
+[*]
+charset = utf-8
+end_of_line = crlf
+insert_final_newline = true
+indent_style = space
+indent_size = 2
+
+# Matches multiple files with brace expansion notation
+# Set default charset
+#[*.{js,py}]
+#charset = utf-8
+
+[*.json]
+charset = latin1
+
+[*.{yaml,yml}]
+indent_style = space
+indent_size = 2
+end_of_line = crlf
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+#[*.py]

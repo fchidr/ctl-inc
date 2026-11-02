@@ -1,0 +1,15 @@
+# Secrets
+secrets/
+.secrets/
+
+
+# Byte-compiled / optimized / DLLs files
+*.py[cod]
+__pycache__/
+
+
+# VSCode Configuration
+#.vscode
+
+# Environments
+.venv

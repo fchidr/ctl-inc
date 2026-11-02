@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-toolsai.jupyter",
+    "alefragnani.project-manager"
+  ],
+  "unwantedRecommendations": [
+    "ms-vscode.vscode-edge-devtools",
+    "xdebug.php-debug",
+    "wordpresstools.wordpress-snippets"
+  ]
+}

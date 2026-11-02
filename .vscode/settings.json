@@ -1,0 +1,10 @@
+{
+  "extensions.ignoreRecommendations": true,
+  "python.defaultInterpreterPath": "C:/Python/Python310/python/python.exe",
+   "python.analysis.extraPaths": [
+    "${workspaceFolder}",
+    "${workspaceFolder}/../.pylibs",
+  ],
+  "python.envFile": "",
+  "python-envs.defaultEnvManager": "ms-python.python:system"
+}
