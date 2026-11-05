@@ -18,3 +18,8 @@ __pycache__/
 snippets.md
 _bitacora.*
 hgp-incurridos.*
+
+data/*
+!data/sds-hgp-01936-8-issues-time_entries-lm-20261103-1815*.csv
+!data/sds-hgp-01960-1-issues-time_entries-lm-20261103-1815*.csv
+!data/SND-AAAAMM-Control-plantilla-20261103-1815.xlsx
